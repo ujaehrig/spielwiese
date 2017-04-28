@@ -9,7 +9,12 @@ in white color
 
 +++
 
-Vertical side
+# Vertical side
+
+but with some text
+
+* and
+* list entries
 
 ---
 
@@ -20,3 +25,13 @@ public static void main(String... args) {
     System.out.println("Test");
 }
 ```
+
++++
+
+```sql
+SELECT * FROM table1 t1
+JOIN table2 t2 ON t2.c1 = t1.c1
+WHERE column = 'value';
+```
+
++++?gist=cf4227416b55dac54a53
