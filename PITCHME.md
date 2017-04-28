@@ -39,3 +39,13 @@ WHERE column = 'value';
 # Title
 
 and some text
+
+---
+
+# Fragments
+
+* Java
+* JavaScript <!-- .element: class="fragment" -->
+* Kotlin     <!-- .element: class="fragment" -->
+* Go         <!-- .element: class="fragment" -->
+* Scala      <!-- .element: class="fragment" -->
