@@ -2,9 +2,9 @@
 
 ---?image=https://source.unsplash.com/random
 
-<span color:"white">
-Next horizontal side
-with background image
+<span style='color:white'>
+Next horizontal side with background image  
+in white color
 </span>
 
 +++
