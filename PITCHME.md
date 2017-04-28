@@ -3,13 +3,13 @@
 ---?image=https://source.unsplash.com/random
 
 <span style='color:white'>
-Next horizontal side with background image  
+Next horizontal slide with background image  
 in white color
 </span>
 
 +++
 
-# Vertical side
+# Vertical slide
 
 but with some text
 
@@ -18,7 +18,7 @@ but with some text
 
 ---
 
-Horizontal side 3
+Horizontal slide 3
 
 ```java
 public static void main(String... args) {
