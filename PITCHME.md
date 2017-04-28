@@ -1,8 +1,9 @@
 # Some test for GitPitch
 
----
+---?image=https://api.unsplash.com/photos/random
 
-Next horizontal side (2)
+Next horizontal side
+with background image
 
 +++
 
