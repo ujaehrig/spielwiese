@@ -54,7 +54,9 @@
 
 ---?image=assets/question-mark-1872665_1920.jpg
 
+<span style='color:white'>
 # Questions
+</span>
 
 <!--
 
